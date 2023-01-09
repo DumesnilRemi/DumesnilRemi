@@ -1,3 +1,6 @@
-###Hello !
+__*Hello !*__
 
-Curently studying in Epitech - Nancy.
+*Tek 1 | Curently studying in Epitech - Nancy.*
+
+*Currently learning C*
+
